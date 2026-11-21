@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">조용탁 — AX 전문가, 공공 AX 실행 전략가, 저자</title>
+  <desc id="desc">민간 8년, 공공 20년의 경험. 현장의 문제를 AI로 풀고 조직이 일하는 방식을 바꿉니다.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#101e34"/><stop offset="1" stop-color="#162e40"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#80d5bf"/><stop offset="1" stop-color="#cfdfaf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="400" rx="20" fill="url(#bg)"/>
+  <path d="M888 0V400M1074 0V400M830 118H1280M830 282H1280" stroke="#e7f0ed" stroke-opacity=".065"/>
+  <circle cx="1100" cy="184" r="121" fill="none" stroke="#89c8be" stroke-opacity=".14"/>
+  <circle cx="1100" cy="184" r="87" fill="none" stroke="#89c8be" stroke-opacity=".14"/>
+  <path d="M947 258L1026 184H1100L1175 108" fill="none" stroke="url(#line)" stroke-width="3"/>
+  <circle cx="947" cy="258" r="7" fill="#80d5bf"/>
+  <circle cx="1026" cy="184" r="6" fill="#80d5bf"/>
+  <circle cx="1175" cy="108" r="7" fill="#cfdfaf"/>
+  <g font-family="'Segoe UI','Malgun Gothic','Apple SD Gothic Neo',Arial,sans-serif">
+    <text x="64" y="55" fill="#8fd2c0" font-size="15" font-weight="600" letter-spacing="3">PUBLIC SECTOR · AI TRANSFORMATION</text>
+    <text x="60" y="142" fill="#f4f6f3" font-size="66" font-weight="700">조용탁</text>
+    <text x="284" y="139" fill="#c4d4dc" font-size="32" font-weight="300">Yongtak Cho</text>
+    <text x="64" y="196" fill="#f4f6f3" font-size="25" font-weight="600">AX 전문가 · 공공 AX 실행 전략가 · 저자</text>
+    <text x="64" y="244" fill="#b9cbd5" font-size="21">현장의 문제를 AI로 풀고, 조직이 일하는 방식을 바꿉니다.</text>
+    <path d="M64 288H800" stroke="#45606e" stroke-opacity=".6"/>
+    <text x="64" y="338" fill="#f4f6f3" font-size="27" font-weight="600">민간 8년</text>
+    <text x="209" y="338" fill="#7fa499" font-size="24">+</text>
+    <text x="252" y="338" fill="#f4f6f3" font-size="27" font-weight="600">공공 20년</text>
+    <text x="451" y="336" fill="#a8bdc8" font-size="17" letter-spacing="1">EXPERIENCE INTO ACTION</text>
+    <text x="1050" y="252" fill="#e5f3e8" font-size="55" font-weight="600" letter-spacing="3">AX</text>
+    <text x="950" y="336" fill="#a8bdc8" font-size="14" letter-spacing="2">PEOPLE → PRACTICE → IMPACT</text>
+  </g>
+</svg>
