@@ -2,7 +2,7 @@
 
 # 조용탁 · Yongtak Cho
 
-<img align="right" src="./assets/yongtak-cho-avatar.png" width="160" alt="조용탁의 인물 사진" />
+<img align="right" src="./assets/yongtak-cho-cutout.png" width="280" alt="조용탁이 정장을 입고 서 있는 전신 사진" />
 
 **공공 AX 실행 전략가 | AI·데이터 기반 행정 전문가 | 저자**
 
