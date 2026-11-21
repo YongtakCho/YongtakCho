@@ -2,6 +2,8 @@
 
 # 조용탁 · Yongtak Cho
 
+<img align="right" src="./assets/yongtak-cho-avatar.png" width="160" alt="조용탁의 인물 사진" />
+
 **공공 AX 실행 전략가 | AI·데이터 기반 행정 전문가 | 저자**
 
 [LinkedIn](https://www.linkedin.com/in/yongtak-cho/) · [조용탁의 공공 AX](https://okmentor.tistory.com/) · [저자 소개](https://www.yes24.com/product/goods/168228373)
@@ -11,6 +13,8 @@
 민간에서 8년, 공공에서 20년. 두 현장에서 쌓은 경험을 바탕으로 **AI 전환(AX)을 조직의 실행력으로 연결하는 일**을 합니다. 기업 현장의 문제 해결 경험에 공공의 정책·업무 이해를 더해, 공무원과 조직이 AI를 실제 업무에 활용하도록 돕습니다.
 
 현재 **한국지능정보사회진흥원(NIA) 수석**으로 일하며 공공 AX 전략, 데이터기반행정, AI 챔피언과 거점 리더 육성에 집중하고 있습니다. 현장에서 얻은 경험을 책과 글로 정리하고, 업무에 적용할 방법을 연구합니다.
+
+<br clear="right" />
 
 <table>
   <tr>
